@@ -7,7 +7,9 @@ Guess what? I'll play the game. d:^$D
 
 **How it works**
 
+```javascript
 const IDIOT = "Candidate Scammer"
+```
 
 1. IDIOT recives excel file
 2. IDIOT opens file and enables macros
@@ -16,4 +18,4 @@ const IDIOT = "Candidate Scammer"
 5. IDIOT turns on his computer, shortcut calls the execution of the .vbs file which opens a hidden session of excel logging the keystrokes and the text in the clipboard.
 6. The data is sent every 100 characters or every 10 seconds to the control server that stores it in a DB.
 
-Of course you need to adapt the code to your needs. (E.g. set up your own server connection details)
+Of course you need to adapt the code to your needs, easy enough to not require any instructions.
