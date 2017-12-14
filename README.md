@@ -8,7 +8,7 @@ Guess what? I'll play the game. d:^$D
 **How it works**
 
 ```javascript
-const IDIOT = "Candidate Scammer"
+const IDIOT = "Candidate Scammer";
 ```
 
 1. IDIOT recives excel file
