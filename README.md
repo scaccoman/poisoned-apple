@@ -1,7 +1,7 @@
 # poisonedApple
-Excel keylogger + data collection server
+Excel keylogger + Data collection server
 
-Recently someone tried to scam me, promising to send me a huge amount of money to my bank account and he needed my bank account information.
+Recently someone tried to scam me, promising to send a huge amount of money to my bank account and he needed my bank account information.
 
 Guess what? I'll play the game. d:$D
 
