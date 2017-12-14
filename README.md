@@ -6,7 +6,9 @@ Recently someone tried to scam me, promising to send a huge amount of money to m
 Guess what? I'll play the game. d:$D
 
 **How it works**
+
 const IDIOT = "Candidate Scammer"
+
 1. IDIOT recives excel file
 2. IDIOT opens file and enables macros
 3. The macro create a .vbs file in the user's directory and a shortcut in the Windows Startup folder
